@@ -2,6 +2,10 @@
 
 Uses the streamlit, pandas and pycaret libraries to create an app that performs automated exploratory data analysis on a dataset.
 
+## Live Site
+
+The site is live for use at [AutoEDA](https://rishavnandi.streamlitapp.com/)
+
 ## Usage
 
 - Clone the repository
