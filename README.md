@@ -4,7 +4,7 @@ Uses the streamlit, pandas and pycaret libraries to create an app that performs 
 
 ## Live Site
 
-The site is live for use at [AutoEDA](https://rishavnandi.streamlitapp.com/)
+The site is live for use at [AutoEDA](https://rishavnandi-auto-eda.streamlit.app/)
 
 ## Usage
 
